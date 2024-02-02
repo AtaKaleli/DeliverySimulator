@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623233277 source:c:\users\ata_k\onedrive\masaüstü\cng213 a2\deliverysimulator\deliverysimulator.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"queue.h"
+
+1623232391 c:\users\ata_k\onedrive\masaüstü\cng213 a2\deliverysimulator\queue.h
+
